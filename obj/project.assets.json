@@ -4075,11 +4075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudioProjects\\PokemonApp\\LobbyApp.csproj",
+      "projectUniqueName": "D:\\VisualStudioProjects\\LobbyApp\\LobbyApp.csproj",
       "projectName": "LobbyApp",
-      "projectPath": "D:\\VisualStudioProjects\\PokemonApp\\LobbyApp.csproj",
+      "projectPath": "D:\\VisualStudioProjects\\LobbyApp\\LobbyApp.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudioProjects\\PokemonApp\\obj\\",
+      "outputPath": "D:\\VisualStudioProjects\\LobbyApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

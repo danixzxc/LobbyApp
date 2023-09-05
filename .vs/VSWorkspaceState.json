@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Data",
+    "\\Models",
     "\\Repository"
   ],
-  "SelectedNode": "\\Repository\\LobbyRepository.cs",
+  "SelectedNode": "\\Repository\\AccountChatRepository.cs",
   "PreviewInSolutionExplorer": false
 }
